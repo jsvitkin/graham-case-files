@@ -25,6 +25,10 @@ On the 3rd day of an [[Unusual Weather]] phenomenon localized to [[Leith]], the 
 - **[[Beachwalk]]** - a small sand-beach area next to a sewage plant; location of the illegal party and a mysterious stone connected to local legends
 
 ---
+## Important Events
+- **[[Beach Party]]** - an (illegal) party that occurred on June, 7th
+
+---
 ## Related Research
 ### Official Documents
 - **[[Preliminary Post-Morten Examination Report]]** - cause of death is drowning; highly suspicious circumstances of death confirmed

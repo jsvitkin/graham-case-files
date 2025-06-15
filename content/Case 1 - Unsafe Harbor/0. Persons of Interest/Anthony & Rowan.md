@@ -18,7 +18,7 @@ Homeless. Anthony was the man who discovered the body and informed the authoriti
 ---
 ## Witness Testimony
 ### Rowan
-Both witnesses claim, that the rain is causing unrest among the homeless community (direct quote: "Bad News"). Rowan claims that 2 nights ago, he has heard a noise similar to *laughter in the wind*. Rowan heard this strage noise on the [[Beachwalk]], while looking for bottles after an illegal party. Witness Rowan described the noise as "a familiar sound".
+Both witnesses claim, that the rain is causing unrest among the homeless community (direct quote: "Bad News"). Rowan claims that 2 nights ago, he has heard a noise similar to *laughter in the wind*. Rowan heard this strage noise on the [[Beachwalk]], while looking for bottles after an [[Beach Party|illegal party]]. Witness Rowan described the noise as "a familiar sound".
 The witness also commented on the unusual nature of the rain: It appears to be a localized phenomenon that covers a circular area (stops after Holywood, Fort Lock, covering Britania down to Ioppa)
 ### Anthony
 Witness Anthony discovered the body in the early morning on June, 10th 202X at around 6:00. The victim did not appear wounded and the alley did not show any signs of struggle. Witness described the state of the victim as "peaceful" and added "it looked like he just laid down and decided to drown". Witness called emergency services and left the scene after the first responders arrived. 
