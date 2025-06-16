@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5b5810751d00f656","type":"text","text":"Party was at the docks -> and the beach walk (3 days ago (at night))","x":-900,"y":-263,"width":250,"height":153},
+		{"id":"dbe8d68b42f74d8e","type":"text","text":"[[Sky Gabsmith]] performs a ritual related to [[The Stone]] legend.","x":-540,"y":-255,"width":250,"height":137},
+		{"id":"e039d41250ed09ac","type":"text","text":"Rain started (3 days ago)","x":-160,"y":-217,"width":250,"height":60},
+		{"id":"2e347a7a1aad9400","type":"text","text":"[[Simon McAllice]] went missing","x":320,"y":-217,"width":250,"height":60},
+		{"id":"53e48f2f83a07026","type":"text","text":"Anthony discovers the victim next to [[Irish Dude Coffee & Food]] (07:00)","x":2080,"y":-247,"width":250,"height":120},
+		{"id":"403c9fab4e135402","type":"text","text":"Thomas Miller is killed (00:00)","x":1600,"y":-217,"width":250,"height":60},
+		{"id":"22dfee485bbe3866","x":1600,"y":-520,"width":250,"height":60,"color":"1","type":"text","text":"June, 10th"},
+		{"id":"3655b860275d3bc2","x":-900,"y":-520,"width":250,"height":60,"color":"1","type":"text","text":"June, 7th"}
+	],
+	"edges":[
+		{"id":"7ae18168d980e009","fromNode":"5b5810751d00f656","fromSide":"right","toNode":"dbe8d68b42f74d8e","toSide":"left"},
+		{"id":"286d2eb409c3a6b8","fromNode":"dbe8d68b42f74d8e","fromSide":"right","toNode":"e039d41250ed09ac","toSide":"left"},
+		{"id":"985886f3441d2529","fromNode":"e039d41250ed09ac","fromSide":"right","toNode":"2e347a7a1aad9400","toSide":"left"},
+		{"id":"78a7d05222195543","fromNode":"403c9fab4e135402","fromSide":"right","toNode":"53e48f2f83a07026","toSide":"left"},
+		{"id":"ab2a4383d85a4560","fromNode":"2e347a7a1aad9400","fromSide":"right","toNode":"403c9fab4e135402","toSide":"left"}
+	]
+}

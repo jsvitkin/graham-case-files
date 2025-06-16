@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+OS="$(uname -s)"
+
+case "$OS" in
+    Darwin|Linux)
+        bash ./vault-sync/sync.sh "$@"
+        ;;
+    CYGWIN*|MINGW*|Windows_NT)
+        powershell -ExecutionPolicy Bypass -File ./vault-sync/sync.ps1
+        ;;
+    *)
+        echo "Unsupported OS: $OS"
+        exit 1
+        ;;
+esac
