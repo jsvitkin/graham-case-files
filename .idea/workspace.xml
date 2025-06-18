@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1de693-91e0-4402-9b38-a18da093296d" name="Changes" comment="created a full syncing logic for all platforms with npm script and updated the content">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/0. Persons of Interest/Anthony &amp; Rowan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/0. Persons of Interest/Simon McAllice.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/0. Persons of Interest/Sky Gabsmith.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/0. Persons of Interest/Thomas Miller.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/1. Places of Interest/Beachwalk.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/1. Places of Interest/Bethany House.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/1. Places of Interest/Irish Dude Coffee &amp; Food.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/1. Places of Interest/Leith.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/3. Folklore &amp; Legends/Dock Worker Rumours.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/3. Folklore &amp; Legends/The Stone.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/3. Folklore &amp; Legends/Unusual Weather.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/4. Reports/Preliminary Post-Morten Examination Report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/5. Important Events/Beach Party.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/6. Case Notes/June, 10th 202X.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/CASE SUMMARY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Case Board.canvas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Images/Rainmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Images/anthony-and-rowan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Images/beach-walk-leith.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Images/beach-walk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Images/bethany-house-interior.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Images/irish-dude-coffee-and-food.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Images/map-irish-dude-bethany-house.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Images/the-stone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Timeline.canvas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/Case 1 - Unsafe Harbor/Timeline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/templates/CASE SUMMARY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/graham-case-files/content/templates/Person of Interest Template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/sync.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/vault-sync/sync.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vault-sync/sync.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vault-sync/sync.sh" afterDir="false" />
-    </list>
+    <list default="true" id="cb1de693-91e0-4402-9b38-a18da093296d" name="Changes" comment="fixed an issue where the script would sync into a wrong folder also updated content" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/vault-sync" />
     </key>
   </component>
@@ -118,7 +86,7 @@
       <updated>1750081657871</updated>
       <workItem from="1750081658959" duration="869000" />
       <workItem from="1750082539775" duration="1399000" />
-      <workItem from="1750253952934" duration="310000" />
+      <workItem from="1750253952934" duration="1048000" />
     </task>
     <task id="LOCAL-00001" summary="created a full syncing logic for all platforms with npm script and updated the content">
       <option name="closed" value="true" />
@@ -128,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750083590198</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed an issue where the script would sync into a wrong folder also updated content">
+      <option name="closed" value="true" />
+      <created>1750254342510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750254342510</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created a full syncing logic for all platforms with npm script and updated the content" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a full syncing logic for all platforms with npm script and updated the content" />
+    <MESSAGE value="fixed an issue where the script would sync into a wrong folder also updated content" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed an issue where the script would sync into a wrong folder also updated content" />
   </component>
 </project>

@@ -1,6 +1,8 @@
 ## Event: Beach Party
 **Date:** June 7th
+
 **Time:** unclear; started after sun-down
+
 **Location:** [[Beachwalk]]
 
 ---

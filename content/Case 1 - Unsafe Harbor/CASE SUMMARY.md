@@ -1,10 +1,15 @@
 # CASE: "UNSAFE HARBOR"
 
 **Case No.:** 10/202X-01
+
 **Case Participants:** Jerome, Glen, Graham
+
 **Filed By:** Graham Grimward
+
 **Status:** ACTIVE
+
 **Duration:** ongoing
+
 **Classification:** unconfirmed supernatural activity
 
 ---
