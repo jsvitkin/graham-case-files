@@ -1,9 +1,15 @@
 #!/usr/bin/env bash
-
 set -e
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-ENV_FILE="$SCRIPT_DIR/.vaultenv"
+# Find the project root by looking for package.json
+PROJECT_ROOT="$(git rev-parse --show-toplevel 2>/dev/null || true)"
+
+if [ -z "$PROJECT_ROOT" ] || [ ! -f "$PROJECT_ROOT/package.json" ]; then
+    echo "Error: Could not find project root (package.json missing)."
+    exit 1
+fi
+
+ENV_FILE="$PROJECT_ROOT/.vaultenv"
 
 # Try to load env file
 if [ -f "$ENV_FILE" ]; then
@@ -24,7 +30,7 @@ if [ -z "$SOURCE_PATH" ]; then
     echo "--> Saved source path to .vaultenv"
 fi
 
-DESTINATION="$SCRIPT_DIR/graham-case-files/content"
+DESTINATION="$PROJECT_ROOT/content"
 echo "==> Starting sync from '$SOURCE_PATH' to '$DESTINATION'"
 
 if [ -d "$DESTINATION" ]; then

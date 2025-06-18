@@ -1,5 +1,21 @@
-$scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Definition
-$envFile = Join-Path $scriptDir ".vaultenv"
+# Find the project root by looking for package.json
+function Get-ProjectRoot {
+    $dir = Resolve-Path "."
+    while ($dir -and -not (Test-Path (Join-Path $dir "package.json"))) {
+        $parent = Split-Path $dir
+        if ($parent -eq $dir) { return $null }
+        $dir = $parent
+    }
+    return $dir
+}
+
+$projectRoot = Get-ProjectRoot
+if (-not $projectRoot) {
+    Write-Error "Could not find project root (missing package.json)"
+    exit 1
+}
+
+$envFile = Join-Path $projectRoot ".vaultenv"
 
 # Try to load env
 if (Test-Path $envFile) {
@@ -26,7 +42,7 @@ if (-not $source -or $source.Trim() -eq '') {
     Write-Host "--> Saved source path to .vaultenv" -ForegroundColor Green
 }
 
-$destination = Join-Path $scriptDir "graham-case-files\content"
+$destination = Join-Path $projectRoot "content"
 
 Write-Host "==> Starting sync from '$source' to '$destination'" -ForegroundColor Cyan
 
