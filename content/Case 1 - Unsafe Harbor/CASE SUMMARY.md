@@ -20,8 +20,8 @@ On the 3rd day of an [[Unusual Weather]] phenomenon localized to [[Leith]], the 
 ## Persons of Interest
 - **[[Thomas Miller]]** - Barista; found dead under suspicious circumstances
 - **[[Anthony & Rowan]]** - homeless in the area; found the victim, provided eye-witness testimony reg. recent events in the area
-- **[[Simon McAllice]]** - High-school student; missing since the start of the suspicious activities in the area
-- **[[Sky Gabsmith]]** - High-school student; a friend of Simon, provided eye-witness testimony reg. the illegal party on the [[Beachwalk]] 3 days ago
+- **[[Simon McEllis]]** - High-school student; missing since the start of the suspicious activities in the area
+- **[[Kai Gabsmith]]** - High-school student; a friend of Simon, provided eye-witness testimony reg. the illegal party on the [[Beachwalk]] 3 days ago
 
 ---
 ## Investigation Sites
@@ -40,7 +40,7 @@ On the 3rd day of an [[Unusual Weather]] phenomenon localized to [[Leith]], the 
 ### Legends and Folklore
 - **[[Unusual Weather]]** - localized and suspicious local weather-phenomenon; has been occurring for the last 3 days.
 - **[[Dock Worker Rumours]]** - local rumours; several centuries ago, there was a disappearance connected to a storm, which has turned to local legend
-- **[[The Stone]]** - an old stone on the Beachwalk; connected to a local legend and ritual
+- **[[Pennybap Stone]]** - an old stone on the Beachwalk; connected to a local legend and ritual
 
 ---
 ## Case Notes

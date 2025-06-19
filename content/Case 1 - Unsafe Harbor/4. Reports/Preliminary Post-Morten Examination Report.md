@@ -1,9 +1,15 @@
-**Deceased Name:** Thomas Miller  
+**Deceased Name:** Thomas Miller
+
 **Age:** 24  
+
 **Sex:** Male  
+
 **Date of Examination:** 10 June 202X  
+
 **Location:** City Mortuary, Edinburgh  
+
 **Pathologist:** Dr. L. Whitmore, OME 
+
 **Police Reference Number:** EDN-25/0611/074  
 
 ---

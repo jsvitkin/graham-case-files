@@ -1,5 +1,6 @@
 
 ![[map-irish-dude-bethany-house.png]]
+![[bethany-house-outside.png]]
 
 ## Address
 12 Couper Street, Leith

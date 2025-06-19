@@ -4,4 +4,4 @@
 1. **[[Irish Dude Coffee & Food]]**
 2. **[[Bethany House]]**
 3. **[[Beachwalk]]**
-4. **[[McAllice Residence]]**
+4. **[[McEllis Residence]]**

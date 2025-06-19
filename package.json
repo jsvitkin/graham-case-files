@@ -18,7 +18,7 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "vault-sync": "node vault-sync/run-sync.cjs"
+    "vault-sync": "node vault-sync/run-sync.mjs"
   },
   "engines": {
     "npm": ">=10.9.2",

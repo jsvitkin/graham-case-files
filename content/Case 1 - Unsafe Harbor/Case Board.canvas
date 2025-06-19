@@ -6,11 +6,11 @@
 		{"id":"9594b1c2521a3536","type":"file","file":"Case 1 - Unsafe Harbor/4. Reports/Preliminary Post-Morten Examination Report.md","x":-780,"y":-2240,"width":400,"height":400},
 		{"id":"87e7f3ee01ebc4de","type":"file","file":"Case 1 - Unsafe Harbor/0. Persons of Interest/Thomas Miller.md","x":-620,"y":-1420,"width":480,"height":540},
 		{"id":"2cf8321e0acb1ee1","x":-380,"y":-3520,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/1. Places of Interest/Beachwalk.md"},
-		{"id":"f263c72749df5b51","x":-640,"y":-4200,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/0. Persons of Interest/Simon McAllice.md"},
-		{"id":"731a1608a933adcf","x":-1220,"y":-3760,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/0. Persons of Interest/Sky Gabsmith.md"},
+		{"id":"f263c72749df5b51","x":-640,"y":-4200,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/0. Persons of Interest/Simon McEllis.md"},
+		{"id":"731a1608a933adcf","x":-1220,"y":-3760,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/0. Persons of Interest/Kai Gabsmith.md"},
 		{"id":"deef2d3f49c20bc0","x":-1240,"y":-2800,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/0. Persons of Interest/Anthony & Rowan.md"},
 		{"id":"866afafe88cb167f","x":-2162,"y":-3208,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/1. Places of Interest/Bethany House.md"},
-		{"id":"bc32bd0941b216af","x":500,"y":-3080,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/3. Folklore & Legends/The Stone.md"}
+		{"id":"bc32bd0941b216af","x":500,"y":-3080,"width":400,"height":400,"type":"file","file":"Case 1 - Unsafe Harbor/3. Folklore & Legends/Pennybap Stone.md"}
 	],
 	"edges":[
 		{"id":"788d5e5b58877f9c","fromNode":"87e7f3ee01ebc4de","fromSide":"right","toNode":"f7aad8f2feda96c4","toSide":"left","label":"place of work"},
